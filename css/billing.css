@@ -1,0 +1,87 @@
+body{
+    background-color: #f1f1f1;
+}
+.wrap{
+    width: 435px;
+    margin: 0 auto;
+}
+.billing{
+    width: auto;
+    height: 70px;
+    background-color: white;
+    margin-bottom: 10px;
+    line-height: 70px;
+}
+.form-group{
+    background-color: white;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+}
+.lastname{
+    position: absolute;
+    top: 110px;
+    left: 770px;
+}
+#firstname{
+    width: 180px;
+    height: 23px;
+    margin-bottom: 7px;
+}
+#lastname{
+    position: absolute;
+    top: 128px;
+    left: 770px;
+    width: 180px;
+    height: 23px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+.firstlast{
+    margin: 0;
+}
+#campanyname{
+    width: 375px;
+    height: 23px;
+    margin-bottom: 7px;
+}
+#email{
+    width: 375px;
+    height: 23px;
+    margin-bottom: 7px;
+}
+#select{
+    width: 383px;
+    height: 28px;
+    margin-bottom: 7px;
+}
+#adress1{
+    width: 375px;
+    height: 23px;
+    margin-bottom: 7px;
+}
+#adress2{
+    width: 375px;
+    height: 23px;
+    margin-bottom: 7px;
+}
+.firstname{
+    margin-bottom: 5px;
+}
+.companyname{
+    margin-bottom: 5px;
+}
+.email{
+    margin-bottom: 5px;
+}
+.country{
+    margin-bottom: 5px;
+}
+.adress1{
+    margin-bottom: 5px;
+}
+.adress2{
+    margin-bottom: 5px;
+}
+h1{
+    margin-left: 20px;
+}

@@ -1,0 +1,101 @@
+
+body{
+    background-color: #f1f1f1;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+.form-group{
+    width: 480px;
+    background-color: white;
+    display: block;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-left: 325px;
+}
+#facebook{
+    width: 400px;
+    height: 25px;
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 22px;
+}
+#telegram{
+    width: 400px;
+    height: 25px;
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 22px;
+}
+#tw{
+    width: 400px;
+    height: 25px;
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 22px;
+}
+#insta{
+    width: 400px;
+    height: 25px;
+    display: block;
+    margin-left: 25px;
+}
+#telegram{
+    display: block;
+}
+#tw{
+    display: block;
+}
+#insta{
+    display: block;
+}
+.f{
+    width: 20px;
+    height: 20px;
+}
+.tw{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.t{
+    width: 25px;
+    height: 25px;
+}
+.i{
+    width: 20px;
+    height: 20px;
+}
+.socialprofile{
+    width: 480px;
+    height: 80px;
+    background-color: white;
+    margin-bottom: 5px;
+    margin-left: 325px;
+    line-height: 80px;
+}
+.h{
+    margin-left: 20px;
+}
+.fd{
+    position: absolute;
+    top: 120px;
+    left: 350px;
+}
+.td{
+    position: absolute;
+    top: 170px;
+    left: 348px;
+}
+.twd{
+    position: absolute;
+    top: 224px;
+    left: 351px;
+}
+.id{
+    position: absolute;
+    top: 276px;
+    left: 350px;
+}

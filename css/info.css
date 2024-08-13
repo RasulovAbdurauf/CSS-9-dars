@@ -1,0 +1,91 @@
+.wrap{
+    width: 600px;
+    margin: 0 auto;
+}
+.form-group{
+    background-color: #f1f1f1;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+#fullName{
+    width: 560px;
+    height: 27px;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+.yourfullname{
+    margin-left: -20px;
+    margin-bottom: 2px;
+    margin-top: 0;
+}
+#dateofbirtho{
+    width: 150px;
+    height: 26px;
+    margin-right: 6px;
+}
+#dateofbirtht{
+    width: 150px;
+    height: 26px;
+    margin-right: 6px;
+}
+#dateofbirthth{
+    width: 218px;
+    height: 26px;
+    margin: 0;
+}
+.form-group-2{
+    width: 607px;
+    height: 50px;
+    background-color: #f1f1f1;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+#taxid{
+    margin-top: 10px;
+}
+#social{
+    margin-left: 55px;
+}
+#dnumber{
+    width: 218px;
+    height: 26px;
+    margin-left: 35px;
+    margin: 0;
+}
+.form-group-3{
+    width: 607px;
+    background-color: #f1f1f1;
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+.citizenship{
+    display: block;
+    position: absolute;
+    top: 313px;
+    left: 374px;
+}
+.country{
+    display: block;
+    position: absolute;
+    top: 313px;
+    left: 474px;
+}
+#country{
+    position: absolute;
+    top: 333px;
+    left: 480px;
+    width: 270px;
+    height: 25px;
+}
+#uscrizen{
+    width: 270px;
+    height: 25px;
+    margin-bottom: 60px;
+    margin-top: 10px;
+}
